@@ -16,4 +16,4 @@ Repositório dedicado à entrega do projeto de Machine Learning na plataforma DI
 - Limite da pontuação da métrica definido (0.085)
 - Tempo limite do experimento e iteração definido (15)
 - Encerramento antecipado habilitado
-- O tamanho da maquina virtual foi definido como **Standard_D3_v2 (4 núcleo(s), 14GB de RAM, 200 GB de armazenamento)** com somente uma instância.
+
